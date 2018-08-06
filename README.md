@@ -1,4 +1,5 @@
-# zap-python
+# zap-cicd-integration
+
 A python script designed to be integrated into CI/CD pipelines as part of the vulnerability assessment stage along with the use of OWASP Zed Attack Proxy (ZAP). 
 
 The current capabilities of the script include:
